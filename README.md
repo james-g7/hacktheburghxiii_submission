@@ -1,4 +1,4 @@
-# HTBXIII Learning Agent
+# HTBXIII Teaching Agent
 
 **HackTheBurgh XIII (2026) — JetBrains "Help the Developer" challenge**
 By James Gaskin and Noah Barret
